@@ -137,9 +137,7 @@ Handle invalid operations using exceptions.
 Work with private attributes and class attributes.
 Organize Python projects into multiple files.
 Use Git and GitHub for version control.
-👨‍💻 Author
 
-Developed as a Python Object-Oriented Programming assignment.
 
 <p align="center">
 ⭐ <b>Thank you for visiting this project!</b> ⭐
