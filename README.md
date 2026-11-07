@@ -1,4 +1,6 @@
-📚 Library Management System
+<p align="center">
+<b>📚 Library Management System</b>
+</p>
 
 <p align="center">
 <b>A Python Object-Oriented Programming Project</b>
