@@ -53,15 +53,22 @@ Python 3.12+	Programming language
 VS Code	Code editor
 Git	Version control
 GitHub	Project hosting
-📂 Project Structure
-text
+
+## 📂 Project Structure
+
+```text
 Library_Manager/
 │
 ├── main.py          # Main program and demonstration
+│
 ├── models.py        # Classes and OOP implementation
+│
 ├── README.md        # Project documentation
+│
 ├── output.txt       # Final program output
+│
 └── .gitignore       # Ignored files
+```
 
 🧠 OOP Concepts Implemented
 Concept	Implementation
