@@ -1,10 +1,10 @@
-<p align="center">
-<b>📚 Library Management System</b>
-</p>
+<h1 align="center">
+  📚 LIBRARY MANAGEMENT SYSTEM
+</h1>
 
-<p align="center">
-<b>A Python Object-Oriented Programming Project</b>
-</p>
+<h3 align="center">
+  A Python Object-Oriented Programming Project
+</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3.12+-blue?logo=python&logoColor=white" />
