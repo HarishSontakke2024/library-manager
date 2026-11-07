@@ -58,6 +58,4 @@ Accessing item.__available from outside the class raises an AttributeError becau
 
 LibraryItem.total_items is a class attribute shared by all objects of the LibraryItem hierarchy, and it keeps track of the total number of items created. On the other hand, self.title is an instance attribute, meaning every individual item has its own title.
 
-Author
 
-Developed as a Python Object-Oriented Programming assignment.
